@@ -50,3 +50,13 @@
 0.0.0.0 zdf.de/mediathek
 0.0.0.0 ardmediathek.de
 0.0.0.0 vix.com
+0.0.0.0 youtube.com
+0.0.0.0 youtube-nocookie.com
+0.0.0.0 youtu.be
+0.0.0.0 ytimg.com
+0.0.0.0 googlevideo.com
+0.0.0.0 r3---sn-jgpxb-3c2e.googlevideo.com 
+0.0.0.0 s.ytimg.com
+0.0.0.0 i.ytimg.com
+0.0.0.0 yt3.ggpht.com
+0.0.0.0 s.youtube.com
