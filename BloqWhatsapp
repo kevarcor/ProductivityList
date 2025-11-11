@@ -1,0 +1,11 @@
+# --- DOMINIOS DE WHATSAPP E INFRAESTRUCTURA DE MENSAJERÍA ---
+0.0.0.0 whatsapp.com
+0.0.0.0 web.whatsapp.com
+0.0.0.0 cdn.whatsapp.net
+0.0.0.0 fbsbx.com
+0.0.0.0 fbcdn.net
+0.0.0.0 graph.facebook.com
+0.0.0.0 api.whatsapp.com
+0.0.0.0 update.whatsapp.net
+0.0.0.0 prod.whatsapp.net
+0.0.0.0 static.whatsapp.net
